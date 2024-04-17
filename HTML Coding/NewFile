@@ -1,0 +1,5 @@
+#smiley {
+    /* Percentage width instead of pixels to make smiley face scale fluidly */
+    width: 50%;
+    height: auto;
+}
